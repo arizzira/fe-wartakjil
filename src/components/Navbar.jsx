@@ -13,7 +13,7 @@ function Navbar() {
 
     const shareData = {
       title: 'War Takjil Online ⚔️',
-      text: 'Woi! Gercep bantu kubu kita menangin War Takjil hari ini. Jangan sampe gorengan idaman lo diborong mereka! 😂🔥 #WarTakjil2026',
+      text: 'gasincuyyyy bantu #WarTakjil2026',
       url: window.location.origin // Link web lo otomatis
     };
 
