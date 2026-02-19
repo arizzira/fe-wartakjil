@@ -18,7 +18,7 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
-*.ntvs*
+*.ntvs*git remote set-url origin https://arizzira@github.com/arizzira/be-wartakjil.git
 *.njsproj
 *.sln
 *.sw?
