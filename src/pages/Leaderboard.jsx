@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { ArrowLeft, Trophy, Crown, Flame, Medal } from 'lucide-react';
 
-const API_URL = 'https://vercel.com/arizziras-projects/be-wartakjil/api'; 
+const API_URL = 'https://be-wartakjil.vercel.app/api'; 
 
 function Leaderboard() {
   const navigate = useNavigate();
