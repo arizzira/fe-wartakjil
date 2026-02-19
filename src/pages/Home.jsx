@@ -160,7 +160,7 @@ function Home() {
             </div>
             
             <div className="text-center md:text-left flex-1">
-              <h3 className="font-game text-2xl md:text-3xl mb-2 text-orange-600">SUPPORT LOKAL PRIDE! 🇮🇩</h3>
+              <h3 className="font-game text-2xl md:text-3xl mb-2 text-orange-600">SUPPORT MIMIN HHE</h3>
               <p className="text-sm md:text-base font-bold text-gray-700 leading-relaxed mb-4">
                 Website ini murni buat gabut & seru-seruan bareng. Kalau kamu terhibur, support admin lewat <span className="underline decoration-yellow-400 decoration-4">Saweria</span> buat modal beli Es Teh & Gorengan pas buka nanti!
               </p>
