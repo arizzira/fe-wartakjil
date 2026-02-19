@@ -165,7 +165,7 @@ function Home() {
                 Website ini murni buat gabut & seru-seruan bareng. Kalau kamu terhibur, support admin lewat <span className="underline decoration-yellow-400 decoration-4">Saweria</span> buat modal beli Es Teh & Gorengan pas buka nanti!
               </p>
               <div className="inline-block bg-black text-white font-game px-4 py-2 rounded-lg text-sm rotate-[-1deg]">
-                SCAN QR DI SAMPING 🚀
+                SCAN QR DI SAMPING
               </div>
             </div>
           </div>
@@ -173,7 +173,7 @@ function Home() {
 
         <div className="mt-12 text-center">
            <p className="font-game text-sm text-black/50 tracking-widest uppercase">
-             DIBUAT DENGAN NEKAT & KEGABUTAN
+             DIBUAT DENGAN NEKAT & made by leno
            </p>
         </div>
 
