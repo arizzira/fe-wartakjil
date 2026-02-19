@@ -6,7 +6,7 @@ import { ArrowLeft, Zap, Shield, Loader2, Globe, Flame, AlertCircle } from 'luci
 import { SoundContext } from '../context/SoundContext';
 import { motion } from 'framer-motion';
 
-const API_URL = 'https://be-wartakjil.vercel.app/api'; 
+const API_URL = 'https://war-takjil.vercel.app/api'; 
 
 const takjilImages = [
   '/animasi/1.png', '/animasi/2.png', '/animasi/3.png', '/animasi/4.png',
